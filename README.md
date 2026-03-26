@@ -1,8 +1,10 @@
 # MapAPI-Leak-Debugger
 MapAPI Leak Debugger V1.0
+
 # MapAPI Leak Debugger - Burp Suite Plugin
 
 **MapAPI Leak Debugger** 是一款专为渗透测试工程师以及企业安全研发打造的**地图MAPAPIKEY泄露滥用**的 Burp Suite 深度集成插件。它实现了从 **被动流量特征提取** 到 **一键越权（跨平台滥用）深度探测** 的完整安全测试闭环，并全面采用了 Burp 原生 HTTP 引擎进行底层驱动与报文渲染。
+<img width="1800" height="1125" alt="1" src="https://github.com/user-attachments/assets/09bcd53a-e91c-4dcf-b56f-834933da4575" />
 
 ## 核心特性 (Core Features)
 
